@@ -1,10 +1,13 @@
-# -E-Commerce-Back
-This is the backend of an e-commerce website. 
+# Week-11-Notetaker
+E-Commerce Back end 
+# Installation
+ - Clone github
+ - NPM Install
+ - Node> Server.js 
+ - Once server is up and listening use the following routes in the video below. 
+
+# Usage
 
 
-#Usage 
-To query the DB for inventory, as well as inputting new DB records. 
+https://user-images.githubusercontent.com/88348635/156207939-3d828823-403f-4423-b8c0-577fdb19649d.mp4
 
-
-#Installation 
-Clone this repo and then npm install and npm run seed to seed the DB. 
