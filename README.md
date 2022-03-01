@@ -1,5 +1,4 @@
-# Week-11-Notetaker
-E-Commerce Back end 
+# E-Commerce Back end 
 # Installation
  - Clone github
  - NPM Install
